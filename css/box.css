@@ -4,10 +4,6 @@
   box-shadow: none;
 }
 
-.winbox.min {
-  border-radius: 0;
-}
-
 .wb-body {
   /* the width of window border: */
   color: #fff;
