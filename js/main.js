@@ -4,7 +4,7 @@ const option = document.getElementById("option");
 const optionsList = document.getElementById("options-list");
 
 aboutMe.addEventListener("click", () => {
-  const box = new WinBox("/about-me", {
+  new WinBox("/about-me", {
     x: "center",
     y: "center",
     html: "<h1>Apaixonado por Node.js</h1>",
