@@ -7,6 +7,7 @@ aboutMe.addEventListener("click", () => {
   new WinBox("/about-me", {
     x: "center",
     y: "center",
+    border: "1em",
     html: "<h1>Apaixonado por Node.js</h1>",
   });
 });
