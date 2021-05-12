@@ -1,0 +1,25 @@
+.winbox {
+  background: #00ff55;
+  border-radius: 2px 2px;
+  box-shadow: none;
+}
+
+.winbox.min {
+  border-radius: 0;
+}
+
+.wb-body {
+  /* the width of window border: */
+  color: #fff;
+  background: #0d0d0d;
+}
+
+.wb-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: black;
+}
+
+.wb-full {
+  display: none;
+}
